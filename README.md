@@ -1,6 +1,6 @@
  
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Rethmi Thennakoon
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
