@@ -1,23 +1,48 @@
- 
-
 # Hi there! 👋 I'm Rethmi Thennakoon
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%F0%9F%92%AB;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves turning ideas into reality through code. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or brewing the perfect cup of coffee ☕
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400" alt="Coding GIF"/>
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, Python, React, or anything tech**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **I debug faster after my third cup of coffee**
+I'm a passionate **Software Engineer** who transforms coffee into code! ☕→💻 I love crafting elegant solutions to complex problems and bringing innovative ideas to life through technology.
 
-## 🛠️ Tech Stack
+🎯 **Current Focus:**
+- 🔭 Working on **[Your Current Project]**
+- 🌱 Mastering **[Technology/Framework]**
+- 👯 Open to **collaborative projects**
+- 💬 Ask me about **JavaScript, Python, React**
+- 📫 Reach me: reththennakoon.edu@gmail.com
+- ⚡ **Fun fact:** I speak fluent JavaScript and broken English 😄
+
+<br clear="both"/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Developer GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Web Dev GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Mobile Dev GIF"/>
+</div>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,7 +75,15 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="300" alt="Stats GIF"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -73,6 +106,10 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
 ## 🌟 Featured Projects
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Projects GIF"/>
+</div>
+
+<div align="center">
   <a href="https://github.com/yourusername/project1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true" alt="Project 1" />
   </a>
@@ -84,10 +121,15 @@ I'm a passionate developer who loves turning ideas into reality through code. Wh
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rethmi&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect & Build Together!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" alt="Fire GIF" width="70"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.gif" alt="Wave GIF" width="70"/>
+</div>
 
 <div align="center">
   
@@ -120,28 +162,25 @@ If you find my projects helpful, consider buying me a coffee!
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Coding Footer"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rethmi&color=gradient&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
   
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+**"Code is poetry written in logic." 💻✨**
 
+*Thanks for stopping by! Let's build something amazing together! 🚀*
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Rainbow Line"/>
 </div>
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)<!--
-**Rethmi/Rethmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [Rethmi](https://github.com/Rethmi)
