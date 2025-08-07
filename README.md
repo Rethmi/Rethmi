@@ -86,36 +86,102 @@ I'm a passionate **Software Engineer** who transforms coffee into code! ☕→�
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rethmi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rethmi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rethmi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rethmi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="Projects GIF"/>
+  <h3>🔥 My Code Masterpieces 🔥</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600"/>
 </div>
 
+### 🎯 Project Showcase
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" alt="Web Dev"/>
+      <br><br>
+      <h4>🌐 E-Commerce Empire</h4>
+      <p><strong>Full-stack shopping experience with AI recommendations</strong></p>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,stripe" />
+      <br><br>
+      <a href="https://yourproject.com">
+        <img src="https://img.shields.io/badge/🚀-Live%20Demo-success?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+      <a href="https://github.com/yourusername/ecommerce">
+        <img src="https://img.shields.io/badge/📂-Source%20Code-blue?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="Mobile Dev"/>
+      <br><br>
+      <h4>📱 TaskMaster Pro</h4>
+      <p><strong>AI-powered productivity app with real-time collaboration</strong></p>
+      <img src="https://skillicons.dev/icons?i=react,firebase,redux,figma" />
+      <br><br>
+      <a href="https://yourapp.com">
+        <img src="https://img.shields.io/badge/📱-Live%20App-ff6b6b?style=for-the-badge&logo=react&logoColor=white"/>
+      </a>
+      <a href="https://github.com/yourusername/taskmaster">
+        <img src="https://img.shields.io/badge/💻-Source%20Code-purple?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="AI Dev"/>
+      <br><br>
+      <h4>🤖 BrainBot AI</h4>
+      <p><strong>Next-gen chatbot with emotional intelligence</strong></p>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,docker" />
+      <br><br>
+      <a href="https://brainbot.com">
+        <img src="https://img.shields.io/badge/🧠-Try%20AI-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      </a>
+      <a href="https://github.com/yourusername/brainbot">
+        <img src="https://img.shields.io/badge/🔬-Research-green?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="Data Viz"/>
+      <br><br>
+      <h4>📊 DataViz Studio</h4>
+      <p><strong>Interactive 3D data visualization platform</strong></p>
+      <img src="https://skillicons.dev/icons?i=d3,python,postgres,aws" />
+      <br><br>
+      <a href="https://dataviz.com">
+        <img src="https://img.shields.io/badge/📈-Analytics-cyan?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
+      </a>
+      <a href="https://github.com/yourusername/dataviz">
+        <img src="https://img.shields.io/badge/📊-Explore-yellow?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true" alt="Project 2" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="300" alt="Rocket Launch"/>
+  <br>
+  <h3>🎨 More Projects Coming Soon! 🎨</h3>
 </div>
 
 ## 📈 Activity Graph
