@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Rethmi Thennakoon
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
-</div>
+ 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%F0%9F%92%AB;Building+Digital+Dreams+%E2%9C%A8" alt="Typing SVG" />
