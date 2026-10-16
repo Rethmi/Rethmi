@@ -25,6 +25,7 @@ I enjoy building responsive web experiences, designing user-centered interfaces,
 - 🧩 Interested in full-stack development, database management, and practical software engineering.
 - 🌱 Continuously improving my skills through projects and hands-on learning.
 - 🤝 Open to collaborating on meaningful software and design projects.
+  
 🛠️ Technical Skills
 Frontend & UI/UX
 <p>
@@ -57,9 +58,6 @@ Databases, Cloud & Tools
 Software Testing & QA
 <p>
   <img src="https://img.shields.io/badge/Manual_Testing-2E8B57?style=for-the-badge" alt="Manual Testing">
-  <img src="https://img.shields.io/badge/Test_Case_Design-4682B4?style=for-the-badge" alt="Test Case Design">
-  <img src="https://img.shields.io/badge/Bug_Reporting-D9534F?style=for-the-badge" alt="Bug Reporting">
-  <img src="https://img.shields.io/badge/Functional_Testing-6F42C1?style=for-the-badge" alt="Functional Testing">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
@@ -225,17 +223,6 @@ Completed
 ### Diploma in Information Technology (DIT)
 **ESOFT Metro Campus**
 
-### GCE Advanced Level
-**Vishaka Girls' College** · Physical Science Stream
-
-2019 – 2021
-
-### GCE Ordinary Level
-**Vishaka Girls' College**
-
-2018
-
-
 
 ## 🏆 Achievements & Certifications
 
@@ -279,19 +266,6 @@ Completed
     View My GitHub Profile & Contributions →
   </a>
 </p>
-
-
-
-## 🟩 Contribution Calendar
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/409ba5/Rethmi"
-    alt="Rethmi's GitHub Contribution Calendar"
-    width="100%"
-  />
-</p>
-
 
 
 📈 GitHub Stats
