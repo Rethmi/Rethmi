@@ -198,34 +198,88 @@ An area of professional development focused on improving software quality throug
   <i>More project repositories and live demos will be linked here as they become publicly available.</i>
 </p>
 
-💼 Experience
-UI/UX Engineer Intern (with Additional Responsibilities in Quality Assurance (QA)) — EonTech Global Group (Pvt) Ltd
-April 2026 – October 2026 | Galle, Sri Lanka
-- Designed user-friendly UI/UX prototypes using Figma.
-- Collaborated with developers to implement responsive designs.
-- Supported quality assurance activities by reviewing interfaces, checking functionality, and identifying UI issues to improve user experience and product quality.
-🎓 Education
-- Undergraduate in Computer Science — Institute of Java and Software Engineering (IJSE)
-- Diploma in Information Technology — ESOFT Metro Campus
-- GCE Advanced Level & Ordinary Level — Vishaka Girls’ College
-🏅 Achievements & Certifications
-- Finalist — Circle Edge National Competition, Shangri-La Colombo
-- Innovative Software Solution Award
-- Semi-finalist — GENESYS Hackathon, IJSE
-- Diploma in Information Technology — ESOFT Metro Campus
-- Basics of UI/UX — Simplilearn
-- Introduction to Software Testing — Simplilearn
+## 💼 Professional Experience
+
+### UI/UX Engineer Intern (with Additional Responsibilities in Quality Assurance (QA))
+**EonTech Global Group (Pvt) Ltd** · Galle, Sri Lanka
+
+`02 April 2026 – 02 October 2026`
+
+- 🎨 Designed user-friendly interfaces and UI/UX prototypes using Figma.
+- 💻 Collaborated with developers to implement responsive web interfaces.
+- 🧪 Supported Quality Assurance (QA) activities by reviewing UI elements and checking functionality.
+- 🔍 Identified interface inconsistencies and usability issues to help improve product quality.
+- 🤝 Contributed to design improvements and a consistent user experience across web pages.
+
+**Areas of Experience:**  
+`UI/UX Design` `Frontend Collaboration` `Quality Assurance` `UI Testing`
+
+
+## 🎓 Education
+
+### Higher National Diploma in Computer Science (HND)
+**Institute of Java and Software Engineering (IJSE)**
+
+Completed
+
+### Diploma in Information Technology (DIT)
+**ESOFT Metro Campus**
+
+### GCE Advanced Level
+**Vishaka Girls' College** · Physical Science Stream
+
+2019 – 2021
+
+### GCE Ordinary Level
+**Vishaka Girls' College**
+
+2018
+
+
+
+## 🏆 Achievements & Certifications
+
+### 🌟 Awards & Achievements
+
+- 🥇 **Finalist** — Circle Edge National Competition  
+  *Shangri-La Colombo*
+
+- 🏅 **Innovative Software Solution Award**
+
+- 🚀 **Semi-finalist** — GENESYS Hackathon  
+  *Institute of Java and Software Engineering (IJSE)*
+
+### 📜 Certifications & Qualifications
+
+- 🎓 **Diploma in Information Technology (DIT)**  
+  *ESOFT Metro Campus*
+
+- 🎨 **Basics of UI/UX**  
+  *Simplilearn*
+
+- 🧪 **Introduction to Software Testing**  
+  *Simplilearn*
 
   
-## 📊 Contribution Activity
+
+## 📊 GitHub Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rethmi&theme=github-compact&hide_border=true&area=true"
-    alt="Rethmi's GitHub Contribution Activity Graph"
-    width="100%"
-  />
+  <a href="https://github.com/Rethmi">
+    <img
+      src="https://ghchart.rshah.org/409ba5/Rethmi"
+      alt="Rethmi's GitHub Contribution Calendar"
+      width="100%"
+    />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Rethmi">
+    View My GitHub Profile & Contributions →
+  </a>
+</p>
+
 
 
 ## 🟩 Contribution Calendar
@@ -237,6 +291,7 @@ April 2026 – October 2026 | Galle, Sri Lanka
     width="100%"
   />
 </p>
+
 
 
 📈 GitHub Stats
