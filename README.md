@@ -63,25 +63,140 @@ Software Testing & QA
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
-🚀 Featured Projects
-🌦️ SmartRain — Smart Rainfall Prediction
-A collaborative machine-learning project focused on rainfall prediction and weather insights for Sri Lanka. The project combines weather data, predictive models, and a web interface to present rainfall information and forecasts.
-My contribution: Frontend development and UI/UX design as part of a collaborative team project.
-Technologies: React, TypeScript, weather/ML API integration
-Repository: View the team repository
-🏨 SmartStay — Hotel Management System
-A hotel management project focused on reservations and hotel operations, with authentication and payment-related functionality.
-Technologies: Spring Boot, MySQL, REST APIs, SMTP
-🧶 HandSpire — Craft Marketplace
-A marketplace concept for showcasing and selling handmade crafts, with attention to responsive interfaces, reusable UI components, and platform security.
-Technologies: React, Node.js, MongoDB
-📊 Patient Risk Stratification System
-A data analysis project designed to help categorize patient cases using a Vitality Complexity Index and visualizations to communicate patterns in clinical data.
-Technologies: Python, BeautifulSoup, Seaborn, Data Analysis
-📱 Streakify — Habit Tracker
-A cross-platform habit-tracking application with offline-first data persistence and a responsive, productivity-focused mobile interface.
-Technologies: React Native, Expo, TypeScript, AsyncStorage
-Project links: Add each project's repository URL once it is public and available on your GitHub profile. Only include demos and repositories that you can access and show.
+
+## 🚀 Featured Projects
+
+<p align="center">
+  A selection of projects showcasing my skills in frontend development,
+  UI/UX design, software engineering, and data analysis.
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ SmartRain
+**Smart Rainfall Prediction System**
+
+A collaborative machine learning project that provides rainfall predictions and weather insights for Sri Lanka.
+
+**My Contributions**
+- Developed frontend interfaces.
+- Contributed to UI/UX design.
+- Collaborated with the team on API integration.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-412991?style=flat-square)
+
+[🔗 View Team Repository](https://github.com/sachi-thakshi/smart-rainfall-prediction)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 SmartStay
+**Hotel Management System**
+
+A hotel management application designed to support reservations, authentication, hotel operations, and payment integration.
+
+**Project Focus**
+- Backend and REST API integration.
+- Database management.
+- Authentication and application security.
+
+**Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧶 HandSpire
+**Handmade Crafts Marketplace**
+
+A marketplace concept for showcasing handmade products through a user-friendly and responsive interface.
+
+**Project Focus**
+- Responsive frontend interfaces.
+- Reusable UI components.
+- Marketplace functionality and security.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Patient Risk Stratification
+**Healthcare Data Analysis**
+
+A data analysis project focused on categorizing patient cases using a Vitality Complexity Index and visualizing patterns in clinical data.
+
+**Project Focus**
+- Data collection and processing.
+- Data analysis and visualization.
+- Communicating analytical insights.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-2E8B57?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Streakify
+**Cross-Platform Habit Tracker**
+
+A habit-tracking application designed to help users build consistent routines with offline data persistence.
+
+**Project Focus**
+- Mobile UI development.
+- Habit tracking functionality.
+- Local data persistence.
+
+**Tech Stack**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Software Quality Assurance
+**Quality-Focused Development**
+
+An area of professional development focused on improving software quality through structured testing and interface reviews.
+
+**Focus Areas**
+- Manual and functional testing.
+- Test case design.
+- Bug identification and reporting.
+- UI consistency and usability checks.
+
+![Testing](https://img.shields.io/badge/Software_Testing-2E8B57?style=flat-square)
+![QA](https://img.shields.io/badge/Quality_Assurance-4682B4?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>More project repositories and live demos will be linked here as they become publicly available.</i>
+</p>
 
 💼 Experience
 UI/UX Engineer Intern (with Additional Responsibilities in Quality Assurance (QA)) — EonTech Global Group (Pvt) Ltd
@@ -100,6 +215,30 @@ April 2026 – October 2026 | Galle, Sri Lanka
 - Diploma in Information Technology — ESOFT Metro Campus
 - Basics of UI/UX — Simplilearn
 - Introduction to Software Testing — Simplilearn
+
+  
+## 📊 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rethmi&theme=github-compact&hide_border=true&area=true"
+    alt="Rethmi's GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</p>
+
+
+## 🟩 Contribution Calendar
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/409ba5/Rethmi"
+    alt="Rethmi's GitHub Contribution Calendar"
+    width="100%"
+  />
+</p>
+
+
 📈 GitHub Stats
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rethmi&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats">
